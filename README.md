@@ -1,6 +1,6 @@
 <h1>Film Kiralama Dükkanı</h1>
     <h4>
-        Bir film kiralama dükkanı oluşturulmuştur.Bu dükkanda dükkana film ekleme , bilgileri girilen kişiye kitap kiralama ve dükkandan seçilen kitap silinebilmektedir.Dükkandaki kitaplar ve kiralanan kitaplar .txt metin belgelerinde saklanmaktadır. dükkan kitap ve kiralık kitap sınıfları kalıtım ile oluşturulmuştur.
+        Bir film kiralama dükkanı oluşturulmuştur.Bu dükkanda dükkana film ekleme , bilgileri girilen kişiye film kiralama ve dükkandan seçilen film silinebilmektedir.Dükkandaki filmler ve kiralanan filmler .txt metin belgelerinde saklanmaktadır. (dükkan filmler ve kiralık film sınıfları kalıtım ile oluşturulmuştur.)
     </h4>
 
    <h2>Uygulama Önizleme</h2>
