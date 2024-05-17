@@ -1,0 +1,3 @@
+Film Dükkanı,Film1,Yönetmen1,3
+Film Dükkanı,Film2,Yönetmen2,5
+Film Dükkanı,Film3,Yönetmen3,4

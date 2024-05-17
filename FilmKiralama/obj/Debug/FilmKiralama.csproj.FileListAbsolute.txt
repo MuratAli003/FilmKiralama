@@ -1,0 +1,10 @@
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\bin\Debug\FilmKiralama.exe.config
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\bin\Debug\FilmKiralama.exe
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\bin\Debug\FilmKiralama.pdb
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\obj\Debug\FilmKiralama.csproj.AssemblyReference.cache
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\obj\Debug\FilmKiralama.Form1.resources
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\obj\Debug\FilmKiralama.Properties.Resources.resources
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\obj\Debug\FilmKiralama.csproj.GenerateResource.cache
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\obj\Debug\FilmKiralama.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\obj\Debug\FilmKiralama.exe
+C:\Users\huawei\Desktop\Nesne Tabanlı Programlama\FilmKiralama\FilmKiralama\obj\Debug\FilmKiralama.pdb
